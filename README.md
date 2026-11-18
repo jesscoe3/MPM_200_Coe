@@ -2,7 +2,11 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+This code assesses data about hummingbirds who were patients at three wildlife rehabilitation hospitals in California between 1991 and 2016. The code assesses which hospitals were busiest in that timeframe, analyzes that may affect survival, and analyzes survival proportions by rehabilitation hospital and between Selasphorus and non-Selasphorus hummingbirds. Other code functionality includes assessing which season brought the most hummingbirds into care. Outputs include tables and figures summarizing and visualizing these assessments. 
+
+What are the main features and functionalities?
+
+What outputs does the code generate?
 
 ## Project Organization
 ------------
